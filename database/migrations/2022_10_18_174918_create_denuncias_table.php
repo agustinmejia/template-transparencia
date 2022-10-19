@@ -17,12 +17,13 @@ class CreateDenunciasTable extends Migration
             $table->id();
             $table->foreignId('denunciante_id')->nullable()->constrained('denunciantes');
             $table->foreignId('tipos_proceso_id')->nullable()->constrained('tipos_procesos');
+            $table->foreignId('caso_id')->nullable()->constrained('casos');
             $table->date('fecha_registro')->nullable();
             $table->string('denunciado')->nullable();
             $table->text('delito')->nullable();
             $table->decimal('monto', 10, 2)->nullable();
             $table->text('archivos')->nullable();
-            $table->string('estado')->nullable()->default('solicitado');
+            $table->string('estado')->nullable()->default('solicitada');
             $table->timestamps();
             $table->softDeletes();
         });
