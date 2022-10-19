@@ -922,7 +922,7 @@ class DataRowsTableSeeder extends Seeder
                 'field' => 'denuncia_belongsto_tipos_proceso_relationship',
                 'type' => 'relationship',
                 'display_name' => 'tipo de proceso',
-                'required' => 1,
+                'required' => 0,
                 'browse' => 1,
                 'read' => 1,
                 'edit' => 1,

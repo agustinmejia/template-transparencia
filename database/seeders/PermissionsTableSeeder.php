@@ -36,5 +36,6 @@ class PermissionsTableSeeder extends Seeder
         Permission::generateFor('tipos_procesos');
         Permission::generateFor('denunciantes');
         Permission::generateFor('denuncias');
+        Permission::generateFor('casos');
     }
 }

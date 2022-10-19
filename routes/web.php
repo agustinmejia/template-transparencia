@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\DenunciasController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -21,6 +23,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::post('denuncias/store', [DenunciasController::class, 'store_landingpage'])->name('denuncias.store.landingpage');
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();

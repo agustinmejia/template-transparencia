@@ -112,9 +112,9 @@
                 <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
                     <div class="content">
                     <h3>Quienes somos</h3>
-                    <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+                    <h2>La Secretaria de Transparencia y lucha contra la corrupción</h2>
                     <p>
-                        Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+                        La Secretaria de Transparencia y lucha contra la corrupción es la instancia responsable de gestionar las denuncias por actos de corrupción y llevar adelante las políticas de transparencia y lucha contra la corrupción, de acuerdo a lo establecido en la Ley 974, de 4 de septiembre 2017.
                     </p>
                     <div class="text-center text-lg-start">
                         <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/about.png" class="img-fluid" alt="">
                 </div>
 
                 </div>
@@ -281,44 +281,44 @@
                 <div class="col-lg-6">
                     <!-- F.A.Q List 1-->
                     <div class="accordion accordion-flush" id="faqlist1">
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
-                            Non consectetur a erat nam at lectus urna duis?
-                        </button>
-                        </h2>
-                        <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                        <div class="accordion-body">
-                            Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                                Qué es denuncia por corrupción?
+                            </button>
+                            </h2>
+                            <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                            <div class="accordion-body">
+                                Todo acto realizado por un funcionario público que haciendo mal ejercicio de su cargo no tenga en cuenta los fines de la función pública o el interés público, sino que actúa por un beneficio particular, violando la ley.
+                            </div>
+                            </div>
                         </div>
-                        </div>
-                    </div>
 
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
-                            Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
-                        </button>
-                        </h2>
-                        <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                        <div class="accordion-body">
-                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                                Cuándo denunciar?
+                            </button>
+                            </h2>
+                            <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                            <div class="accordion-body">
+                                Cuando se tienen conocimiento de actos de corrupción que perjudican a los intereses del Estado, y de la sociedad.  Sólo las denuncias contra particulares, que no afecten los intereses del Estado, no serán atendidas en nuestras oficinas.
+                            </div>
+                            </div>
                         </div>
-                        </div>
-                    </div>
 
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
-                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
-                        </button>
-                        </h2>
-                        <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
-                        <div class="accordion-body">
-                            Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                                Quién puede realizar una denuncia?
+                            </button>
+                            </h2>
+                            <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
+                            <div class="accordion-body">
+                                Cualquier persona que tenga conocimiento de un acto de corrupción o por falta de transparencia (art. 108, num. 8 de la CPE).
+                            </div>
+                            </div>
                         </div>
-                        </div>
-                    </div>
 
                     </div>
                 </div>
@@ -328,44 +328,31 @@
                     <!-- F.A.Q List 2-->
                     <div class="accordion accordion-flush" id="faqlist2">
 
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
-                            Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
-                        </button>
-                        </h2>
-                        <div id="faq2-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
-                        <div class="accordion-body">
-                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                                Cómo presentar una denuncia?
+                            </button>
+                            </h2>
+                            <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
+                            <div class="accordion-body">
+                                De manera verbal o escrita, ante la Unidad de Transparencia, acompañando la documentación de respaldo.
+                            </div>
+                            </div>
                         </div>
-                        </div>
-                    </div>
 
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-2">
-                            Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
-                        </button>
-                        </h2>
-                        <div id="faq2-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
-                        <div class="accordion-body">
-                            Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                                Cuánto cuesta una denuncia?
+                            </button>
+                            </h2>
+                            <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
+                            <div class="accordion-body">
+                                NO tiene ningún costo.
+                            </div>
+                            </div>
                         </div>
-                        </div>
-                    </div>
-
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-3">
-                            Varius vel pharetra vel turpis nunc eget lorem dolor?
-                        </button>
-                        </h2>
-                        <div id="faq2-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
-                        <div class="accordion-body">
-                            Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-                        </div>
-                        </div>
-                    </div>
 
                     </div>
                 </div>
@@ -526,36 +513,41 @@
                 </div>
 
                 <div class="col-lg-7">
-                    <form action="forms/contact.php" method="post" class="php-email-form">
-                    <div class="row gy-4">
-                        <div class="col-md-6">
-                            <input type="text" name="name" class="form-control" placeholder="Tu nombre completo" required>
-                        </div>
-                        <div class="col-md-6 ">
-                            <input type="email" class="form-control" name="email" placeholder="Tu cédula de identidad" required>
-                        </div>
-                        <div class="col-md-6">
-                            <input type="text" name="name" class="form-control" placeholder="Tu telefono/celular de contacto" required>
-                        </div>
-                        <div class="col-md-6 ">
-                            <input type="email" class="form-control" name="email" placeholder="Tu dirección" required>
-                        </div>
-                        <div class="col-md-12">
-                            <input type="text" class="form-control" name="subject" placeholder="Personas o entidades denunciadas" required>
-                        </div>
-                        <div class="col-md-12">
-                            <textarea class="form-control" name="message" rows="6" placeholder="Describa el motivo de su denuncia y la fecha en la que ocurrieron los hechos" required></textarea>
-                        </div>
+                    <form action="{{ route('denuncias.store.landingpage') }}" method="post" class="php-email-form" enctype="multipart/form-data">
+                        @csrf
+                        <div class="row gy-4">
+                            <div class="col-md-6">
+                                <input type="text" name="nombre_completo" class="form-control" placeholder="Tu nombre completo" required>
+                            </div>
+                            <div class="col-md-6 ">
+                                <input type="text" name="ci" class="form-control" placeholder="Tu cédula de identidad" required>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" name="telefono" class="form-control" placeholder="Tu telefono/celular de contacto" required>
+                            </div>
+                            <div class="col-md-6 ">
+                                <input type="text" name="direccion" class="form-control" placeholder="Tu dirección" required>
+                            </div>
+                            <div class="col-md-12">
+                                <input type="text" name="denunciado" class="form-control" placeholder="Personas o entidades denunciadas" required>
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" name="delito" rows="6" placeholder="Describa el motivo de su denuncia y la fecha en la que ocurrieron los hechos" required></textarea>
+                            </div>
+                            <div class="col-md-12">
+                                <input type="file" name="file" class="form-control">
+                                <small>Puedes adjuntar un archivo a tu denuncia (PDF o imagen)</small>
+                            </div>
 
-                        <div class="col-md-12 text-center">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                            <div class="col-md-12 text-center">
+                                <div class="loading">Enviando...</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Tu denuncia ha sido enviada. Gracias!</div>
 
-                            <button type="submit">Enviar denuncia</button>
+                                <button type="submit">Enviar denuncia</button>
+                            </div>
+
                         </div>
-
-                    </div>
                     </form>
 
                 </div>
